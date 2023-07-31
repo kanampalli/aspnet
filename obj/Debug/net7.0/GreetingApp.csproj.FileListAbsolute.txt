@@ -1,0 +1,15 @@
+D:\azurepractise\GreetingApp\bin\Debug\net7.0\GreetingApp.exe
+D:\azurepractise\GreetingApp\bin\Debug\net7.0\GreetingApp.deps.json
+D:\azurepractise\GreetingApp\bin\Debug\net7.0\GreetingApp.runtimeconfig.json
+D:\azurepractise\GreetingApp\bin\Debug\net7.0\GreetingApp.dll
+D:\azurepractise\GreetingApp\bin\Debug\net7.0\GreetingApp.pdb
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.csproj.AssemblyReference.cache
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.AssemblyInfoInputs.cache
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.AssemblyInfo.cs
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.csproj.CoreCompileInputs.cache
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.dll
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\refint\GreetingApp.dll
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.pdb
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\GreetingApp.genruntimeconfig.cache
+D:\azurepractise\GreetingApp\obj\Debug\net7.0\ref\GreetingApp.dll
